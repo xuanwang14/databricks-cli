@@ -1,4 +1,5 @@
 # Test reqs
+click==7.1.1
 prospector[with_pyroma]==0.12.7
 pylint==1.8.2
 pep8-naming==0.5.0
